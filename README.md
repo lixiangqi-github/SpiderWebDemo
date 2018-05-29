@@ -3,6 +3,6 @@
 
 <html>
 <!--在这里插入内容-->
-<img src="https://github.com/mozre/SpiderWebDemo/blob/master/spider.png?raw=true" style="width:270;height:480px"/>
+<img src="https://github.com/mozre/SpiderWebDemo/blob/master/spider.png?raw=true" style="width:270px;height:480px"/>
 </html>
 
